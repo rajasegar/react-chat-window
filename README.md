@@ -17,7 +17,7 @@
 - Backend agnostic
 - Free
 
-## [Demo](https://dharness.github.io/react-chat-window/)
+## [Demo](https://rajasegar.github.io/react-chat-window/)
 
 ## Table of Contents
 - [Installation](#installation)
